@@ -5,7 +5,7 @@ that makes interlocking spirals.
 
 ###Example Inkscape file
 
-[example](https://github.com/macbuse/zengons/blob/master/spirals.svg)
+[example](https://github.com/macbuse/Affine-spirals/blob/master/spirals.svg)
 
 
 ##Installation 
