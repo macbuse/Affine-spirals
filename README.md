@@ -14,7 +14,7 @@ that makes interlocking spirals.
 1. Copy the .inx and .py to  inkscape extensions folder :
 For OS X - $HOME/.config/inkscape/extensions
 1. Open Inkscape. 
-1. Activate via the Render submenu of Extensions menu.
+1. Activate via the Examples submenu of Extensions menu.
 
 ##Dependencies
 
