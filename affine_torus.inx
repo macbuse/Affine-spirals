@@ -19,6 +19,6 @@
       </effects-menu>
    </effect>
    <script>
-      <command reldir="extensions" interpreter="python">fablabchemnitz_affine_torus.py</command>
+      <command reldir="extensions" interpreter="python">affine_torus.py</command>
    </script>
 </inkscape-extension>
